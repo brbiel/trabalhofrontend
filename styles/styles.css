@@ -1,0 +1,24 @@
+h1 {
+    color: salmon;
+}
+
+p {
+    color: #ff0000d0;
+}
+
+h2 {
+    color: rgb(50, 171, 219);
+}
+
+body {
+    background-color: rgb(219, 219, 202);
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+li {
+    color: palevioletred
+}
